@@ -1,0 +1,10 @@
+INSERT INTO Kunde VALUES ('Maria', 'Anders', 'm.anders@mail.com', 'Frederikshavn 12');
+INSERT INTO Kunde VALUES ('Ana', 'Trujilo', 'a.t@mail.com', 'Frederikshavn 1');
+INSERT INTO Kunde VALUES ('Laurence', 'lebinans', 'l.l@mail.com', 'Arederikshavn 42');
+INSERT INTO Kunde VALUES ('Elizabeth', 'Bruun', 'e.bruun@mail.com', 'Kronvej 4');
+INSERT INTO Kunde VALUES ('Victoria', 'Ashworth', 'wash@mail.com', 'Kleanin 12,7');
+INSERT INTO Kunde VALUES ('Hanne', 'Mose', 'mose@mail.com', 'Troldebane 123');
+INSERT INTO Kunde VALUES ('Martin', 'Cruz', 'm.cruz@mail.com', 'Switchvej 8,4-6');
+INSERT INTO Kunde VALUES ('Peter', 'Mortensen', 'peterpan@mail.com', 'Skovgade 1');
+INSERT INTO Kunde VALUES ('Jen', 'Steel', 'jensteel@gmail.com', 'Hvidhavn 5');
+INSERT INTO Kunde VALUES ('Daniel', 'Buhl', 'dan.buhlo@mail.com', 'Fuldeman 9,9-9');

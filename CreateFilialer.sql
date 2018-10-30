@@ -1,0 +1,5 @@
+CREATE TABLE Filialer (
+FilialID INT  IDENTITY(1,1) PRIMARY KEY,
+FilialNavn VARCHAR(50),
+FilialBy VARCHAR(50)
+);

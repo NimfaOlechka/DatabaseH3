@@ -1,0 +1,10 @@
+INSERT INTO Ansatte VALUES ('Jens', 'Jensen', 'jensjensen@gmail.dk', 'Norregade 23,4', '1');
+INSERT INTO Ansatte VALUES ('Marie', 'Briks', 'm.briks@hotmail.dk', 'Fredrikshavn, 3,3-2', '3');
+INSERT INTO Ansatte VALUES ('Mikael', 'Gravesen', 'm.gravesen@hotmail.com', 'Adolfsvej 11,5-6', '2');
+INSERT INTO Ansatte VALUES ('Maren', 'Bruun', 'm.bruun@yahoo.dk', 'Thomson str, 6', '2');
+INSERT INTO Ansatte VALUES ('Kenneth', 'Smith', 'kennet.smith@yahoo.dk', 'HC Andersen, 34 -7', '2');
+INSERT INTO Ansatte VALUES ('Natasja', 'Buhl', 'n.buhl@hotmail.dk', 'Dronninggade, 5', '2');
+INSERT INTO Ansatte VALUES ('Janette', 'Borg', 'j.borg@gmail.dk', 'Norregade 45', '1');
+INSERT INTO Ansatte VALUES ('Natalie', 'Mortensen', 'pretty@gmail.dk', 'Vestgade 3', '4');
+INSERT INTO Ansatte VALUES ('Arvid', 'Juhl', 'juhl.Arvid@gmail.dk', 'Pushkin 34', '4');
+INSERT INTO Ansatte VALUES ('Thor', 'Brughsen', 'godthor@yahoo.com', 'Norregade 23,4', '1');
