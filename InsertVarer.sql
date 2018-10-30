@@ -1,0 +1,11 @@
+INSERT INTO Varer VALUES ('Kartofler','','2kg pose','20','1');
+INSERT INTO Varer VALUES ('Øst','45% fedt','250 gr','25','1');
+INSERT INTO Varer VALUES ('Mælk','1.5% fedt','1 ltr','50','1');
+INSERT INTO Varer VALUES ('Stol','Kontor stol, sort','stk','8','2');
+INSERT INTO Varer VALUES ('Board','hvid, 150x200','stk','8','2');
+INSERT INTO Varer VALUES ('Lampe234','board lampe, grøn','stk','8','3');
+INSERT INTO Varer VALUES ('LampePOP','nat lampe til børn','stk','7','3');
+INSERT INTO Varer VALUES ('Mocca','columbian kaffe, stærke 3','pose, 750gr','28','4');
+INSERT INTO Varer VALUES ('Neskaffe','kaffe pulve, stærke 2','dose, 500gr','35','4');
+INSERT INTO Varer VALUES ('Lenovo PC','CORE i7, RADEON, 128 GB HDD','stk','10','5');
+INSERT INTO Varer VALUES ('MacBook','128 Gb SSD, 13,3" 1,8 GHz Core i5','stk','9','5');
